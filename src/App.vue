@@ -14,6 +14,7 @@
         <h2 class="text-2xl font-bold">CONTACT ME!</h2>
         <h2>22FTT1521@student.pb.edu.bn</h2>
         <h2>+673 --- ----</h2>
+        <h2>asivenaty.com</h2>
       </div>
     </div>
   </div>
