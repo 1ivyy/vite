@@ -8,7 +8,7 @@ import ivy from "./assets/ivy.jpg"
     <h1>Asivenaty Asut [22FTT1521]</h1>
 
     <div>
-      <img src="ivy.jpg" alt="">
+      <img :src="ivy" class="w-24 h-24 ml-20" alt="ivy" />
     </div>
   </div>
 </template>
